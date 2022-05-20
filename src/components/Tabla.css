@@ -1,0 +1,38 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 0;
+  border: 1px solid #000;
+}
+
+img {
+  max-width: 100px;
+  height: auto;
+}
+
+tr {
+  border-bottom: 1px solid #000;
+}
+
+td {
+  padding: 5px;
+  text-align: center;
+  border-right: 1px solid #000;
+}
+
+th {
+  padding: 10px 12px;
+  margin: 10px 5px;
+  background-color: #000;
+  color: #fff;
+}
+
+button {
+  background-color: #000;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  margin: 0 5px;
+  border-radius: 5px;
+  cursor: pointer;
+}
